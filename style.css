@@ -1,0 +1,178 @@
+
+
+#head{
+    height: 110px;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background-color: blue;
+
+    background-image: url("img9.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+/*head menu*/
+#head
+{
+    font-size: 50px;
+}
+#menu ul li
+{
+    font-size: 32px;
+    display: block;
+}
+#menu ul
+{
+    padding: 70px;
+}
+ul{
+    float:right;
+    list-style-type:none;
+    margin-top:25px ;
+
+}
+
+ul li
+{
+    display:inline-block;
+    
+}
+ ul li a{
+      text-decoration: none;
+      color: white;
+      padding: 20px 50 px;
+      border: 1px solid white;
+}
+ul li a:hover{
+    background-color: red;
+    color: yellow;
+    transition: 0.6s ease;
+}
+
+#menu{
+    height: 500px;
+    width: 20%;
+    left: 0px;
+    top: 112px;
+    position: absolute;
+
+    background-image: url("img2.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+ul{
+    float:right;
+    list-style-type:none;
+    margin-top:25px ;
+
+}
+
+
+
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px 50 px;
+    border: 1px solid white;
+}
+ul li a:hover{
+  background-color: red;
+  color: yellow;
+  transition: 0.6s ease;
+}
+#sidebar{
+    height: 130px;
+    width: 20%;
+    right: 0px;
+    top: 112px;
+    position: absolute;
+    background-color:yellow;
+    background-image: url("img3.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#cont{
+    height: 130px;
+    width: 59%;
+    right: 280px;
+    top: 115px;
+    position: absolute;
+    background-image: url("img1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#middle{
+    height: 130px;
+    width: 59%;
+    right: 280px;
+    top: 257px;
+    position: absolute;
+    background-color:rgba(0, 70, 128, 0.699);
+    background-image: url("img4.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#footer{
+    height: 130px;
+    width: 59%;
+    right: 280px;
+    top: 400px;
+    position: absolute;
+    background-color:rgba(81, 0, 128, 0.699);
+    background-image: url("img5.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#middlecorner{
+    height: 130px;
+    width: 20%;
+    right: 0px;
+    top: 257px;
+    position: absolute;
+    background-color:rgba(248, 6, 6, 0.699);
+    background-image: url("img6.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#footercorner{
+    height: 130px;
+    width: 20%;
+    right: 0px;
+    top: 400px;
+    position: absolute;
+    background-color:yellow;
+    background-image: url("img7.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#footerlast{
+    height: 80px;
+    width: 79%;
+    right:0px;
+    top: 537px;
+    position: absolute;
+    background-color:black;
+    background-image: url("img8.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+
+
